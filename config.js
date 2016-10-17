@@ -1,4 +1,5 @@
 // Put your own Twitter App keys here. See README.md for more detail.
+// The secrets shown below have been deleted since they were accidentally posted in a public forum.
 module.exports = {
   consumer_key:         'LQR7R7avArbJoDZfdMKEKOeKr',
   consumer_secret:      'lWmKYO8FtXgZm4qfeOuUOSh2h4mHs8ktsppHvZqt6Wxl5aHEfT',
